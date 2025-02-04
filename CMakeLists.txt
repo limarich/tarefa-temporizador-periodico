@@ -41,8 +41,8 @@ pico_set_program_name(tarefa-temporizador-periodico "tarefa-temporizador-periodi
 pico_set_program_version(tarefa-temporizador-periodico "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
-pico_enable_stdio_uart(tarefa-temporizador-periodico 0)
-pico_enable_stdio_usb(tarefa-temporizador-periodico 0)
+pico_enable_stdio_uart(tarefa-temporizador-periodico 1)
+pico_enable_stdio_usb(tarefa-temporizador-periodico 1)
 
 # Add the standard library to the build
 target_link_libraries(tarefa-temporizador-periodico
