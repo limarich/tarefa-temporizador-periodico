@@ -50,7 +50,7 @@ Os seguintes requisitos foram implementados:
 ### 📌 Clonando o Repositório e Compilando:
 ```sh
 # Clonar o repositório
-git clone https://github.com/seu-usuario/tarefa-temporizador.git
+git clone https://github.com/limarich/tarefa-temporizador-periodico.git
 cd tarefa-temporizador
 
 utilizar a biblioteca Raspberry Pico W para compilar o projeto
